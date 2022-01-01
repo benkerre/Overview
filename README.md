@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 👨🏼‍💻 I'm a data Junior scientist.
+- 👨🏼‍💻 I'm a Junior data scientist and Software engineer.
 - 🌱 I’m currently developing my skills in the fields of Computer Vision, Deep Learning, Machine Learning, Data Science, Data Engineering and Ml-Engineering.
 - 👌 Fun fact: I am always seeking new opportunities to learn.
 </td>
